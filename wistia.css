@@ -3,7 +3,7 @@
 }
 @media only screen and (max-width: 300px) {
   body {
-    width: 50%;
+    zoom: 0.5;
   }
 }
 body,
